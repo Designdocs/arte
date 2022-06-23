@@ -1,14 +1,4 @@
 # > ArtBeat
-DOMAIN-SUFFIX,en.arten.club
-DOMAIN-SUFFIX,cn.arten.club
-DOMAIN-SUFFIX,artstation.club
-DOMAIN-KEYWORD,artclouds
-DOMAIN-KEYWORD,pinterest
-DOMAIN-SUFFIX,behance.top
-DOMAIN-SUFFIX,pintercloud.com
-DOMAIN-SUFFIX,p.anrts.com
-DOMAIN-SUFFIX,appleiid.link
-DOMAIN-SUFFIX,ccava.cc
 DOMAIN-SUFFIX,ifun.tv
 DOMAIN-SUFFIX,ifvod.tv
 DOMAIN-SUFFIX,iyf.tv
@@ -22,6 +12,11 @@ DOMAIN-SUFFIX,coupang.com
 DOMAIN-SUFFIX,posemaniacs.com
 DOMAIN-SUFFIX,sephora.com
 DOMAIN-SUFFIX,mixamo.com
+DOMAIN-KEYWORD,pinterest
+DOMAIN-KEYWORD,artstation
+DOMAIN-SUFFIX,behance.top
+DOMAIN-SUFFIX,appleiid.link
+DOMAIN-SUFFIX,ccava.cc
 DOMAIN-SUFFIX,500px.com
 DOMAIN-SUFFIX,1x.com
 DOMAIN-SUFFIX,dribbble.com
