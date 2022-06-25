@@ -1,2 +1,2 @@
 # arte
-rule
+rm
