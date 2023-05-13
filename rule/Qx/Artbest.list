@@ -139,5 +139,8 @@ DOMAIN-SUFFIX,vercel.ai
 DOMAIN-SUFFIX,audiostory.ai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,beta.openai.com
-DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
