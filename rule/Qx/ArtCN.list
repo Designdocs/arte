@@ -1,6 +1,7 @@
-DOMAIN-SUFFIX,douyinvod.com,DIRECT
-DOMAIN-SUFFIX,douyinpic.com,DIRECT
-DOMAIN-SUFFIX,zijieapi.com,DIRECT
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zjcdn.com
 # > General
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
