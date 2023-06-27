@@ -1,3 +1,4 @@
+# > DouYin,cn
 DOMAIN-SUFFIX,douyinvod.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,zijieapi.com
@@ -5,6 +6,10 @@ DOMAIN-SUFFIX,zjcdn.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,ecombdapi.com
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bsccdn.net
+DOMAIN-SUFFIX,ndcpp.com
 # > General
 DOMAIN,app.adjust.com
 DOMAIN,app.appsflyer.com
