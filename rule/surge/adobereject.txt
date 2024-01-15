@@ -203,4 +203,6 @@
 .0mo5a70cqa.adobe.io
 .1b9khekel6.adobe.io
 .i7pq6fgbsl.adobe.io
+.vcorzsld2a.adobe.io
+.adobe.io
 .cc-api-behance.adobe.io
