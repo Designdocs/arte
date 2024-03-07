@@ -162,6 +162,7 @@
 .claude.ai
 .anthropic.com
 .ikoula.com
+.ikoula.cn
 .torrentmac.net
 .hoka.com
 .medallia.com
