@@ -163,6 +163,7 @@
 .anthropic.com
 .ikoula.com
 .ikoula.cn
+.ikoula.nl
 .torrentmac.net
 .hoka.com
 .medallia.com
