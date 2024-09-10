@@ -198,3 +198,4 @@
 .vmixcall.com
 .jsfiddle.net
 .khanacademy.org
+.kastatic.org
