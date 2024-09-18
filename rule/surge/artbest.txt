@@ -27,7 +27,7 @@
 .mouseflow.com
 .mod.red
 .gpabr.com
-.wxb.com,DIRECT
+.wxb.com
 .doubleclick.net
 .amazon.co.uk
 .is.graphics
