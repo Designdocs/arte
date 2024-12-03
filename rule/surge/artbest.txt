@@ -199,3 +199,5 @@
 .jsfiddle.net
 .khanacademy.org
 .kastatic.org
+.agoda.com
+.viki.com
