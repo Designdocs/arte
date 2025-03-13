@@ -6,6 +6,8 @@
 .adobe-audience-finder.com
 .adobe-video-partner-finder.com
 .adobe.com
+.geo.adobe.com
+.api.account.adobe.com
 .adobe.ly
 .adobeaemcloud.com
 .adobeaemcloud.net
