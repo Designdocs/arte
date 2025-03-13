@@ -139,7 +139,6 @@
 .acp-ss.adobe.io
 .acp-ss-va6c2.adobe.io
 .adobesearch.adobe.io
-.api.account.adobe.com
 .app-content.lightroom.adobe.com
 .ars.oobesaas.adobe.com
 .assets.adobedtm.com
@@ -162,7 +161,6 @@
 .crs.cr.adobe.com
 .feature-config.fonts.adobe.com
 .ffc-static-cdn.oobesaas.adobe.com
-.geo2.adobe.com
 .guzg78logz.adobe.io
 .hbrcv.adobe.com
 .hbrt.adobe.com
