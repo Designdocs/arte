@@ -61,6 +61,7 @@ payload:
   - '+.gateway.ai.cloudflare.com'
   - '+.dify.ai'
   - '+.openart.ai'
+  - '+.openrouter.ai'
   - '+.notebooklm.google.com'
   - '+.notebooklm.google'
   - '+.jasper.ai'
