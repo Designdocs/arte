@@ -77,3 +77,8 @@ payload:
   - '+.huggingface.co'
   - '+.hf.co'
   - '+.grok.com'
+  - '+.link.com'
+  - '+.stripe-terminal-local-reader.net'
+  - '+.stripe.com'
+  - '+.stripe.network'
+  - '+.stripecdn.com'
