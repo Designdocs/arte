@@ -204,5 +204,4 @@
 .vcorzsld2a.adobe.io
 .adobe.io
 .cc-api-behance.adobe.io
-.hstatic.io
 .adobestats.io
