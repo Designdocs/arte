@@ -88,3 +88,8 @@
 .stripe.com
 .stripe.network
 .stripecdn.com
+
+.prodregistryv2.org
+.featureassets.org
+.browser-intake-datadoghq.com
+.mixpanel.com
