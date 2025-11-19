@@ -84,3 +84,4 @@ payload:
   - '+.featureassets.org'
   - '+.browser-intake-datadoghq.com'
   - '+.mixpanel.com'
+  - '+.antigravity.google'
