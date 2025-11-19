@@ -65,6 +65,9 @@
 .aistudio.google.com
 .bard.google.com
 .antigravity.google
+.antigravity-unleash.goog
+.lh3.googleusercontent.com
+.aily-cloudcode-pa.sandbox.googleapis.com
 
 .meta.ai
 .perplexity.ai
