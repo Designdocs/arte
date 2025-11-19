@@ -64,6 +64,7 @@
 .makersuite.google.com
 .aistudio.google.com
 .bard.google.com
+.antigravity.google
 
 .meta.ai
 .perplexity.ai
