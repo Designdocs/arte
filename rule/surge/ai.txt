@@ -97,4 +97,7 @@
 .featureassets.org
 .browser-intake-datadoghq.com
 .mixpanel.com
+
 .lovart.ai
+.prodregistryv2.org
+.featureassets.org
