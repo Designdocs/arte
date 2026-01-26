@@ -87,3 +87,5 @@ payload:
   - '+.antigravity.google'
   - '+.antigravity-unleash.goog'
   - '+.lovart.ai'
+  - '+.prodregistryv2.org'
+  - '+.featureassets.org'
