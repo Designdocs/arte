@@ -205,3 +205,4 @@
 .kongessloejd.com
 .pages.dev
 .2fa.show
+.figma.com
