@@ -99,5 +99,6 @@
 .mixpanel.com
 
 .lovart.ai
+.manus.im
 .prodregistryv2.org
 .featureassets.org
