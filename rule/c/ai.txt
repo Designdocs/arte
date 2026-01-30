@@ -89,3 +89,4 @@ payload:
   - '+.lovart.ai'
   - '+.prodregistryv2.org'
   - '+.featureassets.org'
+  - '+.manus.im'
