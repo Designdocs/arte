@@ -51,7 +51,6 @@
 .sapphire.api.microsoftapp.net
 
 .meta.ai
-.perplexity.ai
 .gateway.ai.cloudflare.com
 .dify.ai
 .openart.ai
@@ -76,10 +75,7 @@
 
 .prodregistryv2.org
 .featureassets.org
-.browser-intake-datadoghq.com
 .mixpanel.com
 
 .lovart.ai
 .manus.im
-.prodregistryv2.org
-.featureassets.org
