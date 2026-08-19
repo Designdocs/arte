@@ -1,5 +1,5 @@
 DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chat.com
@@ -18,10 +18,14 @@ DOMAIN-SUFFIX,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,openaicom.imgix.net
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,c.ai
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
+DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,laion.ai
 DOMAIN-SUFFIX,dreamstudio.ai
 DOMAIN-SUFFIX,civitai.com
